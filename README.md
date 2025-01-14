@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there, I'm Timur!
 
-<!--
-**Pars89/Pars89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's Student** in *Information Systems and Technologies* (1st year)  
+💻 **Java Backend Developer in Progress**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, SQL  
+- **Tools & Technologies:** JDBC, HTTP & Servlets, REST, Maven  
+- **Learning Now:** JUnit, Hibernate, Spring, Docker, Kafka  
+
+---
+
+## 🚀 Projects
+- 🎮 **HangMan** — Classic Hangman game (*Java, OOP*)  
+- 💱 **CurrencyExchanger** — Currency exchange app (*Java, SQL, JDBC, HTTP & Servlets, REST, Maven*)  
+- 🛠️ *More projects coming soon to cover new technologies!*  
+
+---
+
+## 🏆 Achievements
+- ♟️ **FIDE Chess Master**  
+- 🥇 **ICPC Regional Quarterfinal Winner**  
+- 🎖️ **ICPC Semifinalist**  
+
+---
+
+## 🎯 Goals for 2025
+- Master **Spring Framework**  
+- Dive into **Docker** and **Kafka**  
+- Build 3–4 new projects to strengthen my skills  
+
+---
+
+## 📊 GitHub Stats
+
+![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pars89&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pars89&layout=compact&theme=default)  
+

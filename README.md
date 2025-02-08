@@ -7,8 +7,8 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, SQL  
-- **Tools & Technologies:** JDBC, HTTP & Servlets, REST, Maven, JUnit
-- **Learning Now:** Hibernate, Spring, Docker, Kafka  
+- **Tools & Technologies:** JDBC, HTTP & Servlets, REST, Maven, JUnit, Hibernate
+- **Learning Now:** Spring, Docker, Kafka  
 
 ---
 

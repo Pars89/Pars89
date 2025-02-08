@@ -33,5 +33,9 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pars89&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pars89&layout=compact&theme=default)  
 
 

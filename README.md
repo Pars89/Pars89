@@ -15,7 +15,7 @@
 ## 🚀 Projects
 - 🎮 **HangMan** — Classic Hangman game (*Java, OOP*)  
 - 💱 **CurrencyExchanger** — Currency exchange app (*Java, SQL, JDBC, HTTP & Servlets, REST, Maven, Postman*)
-- 🎾 **Tennis Scoreboard** — Web app for tracking tennis match scores (*Java, PostgreSQL, Hibernate, HTTP & Servlets, MVC, JUnit, Maven*)  
+- 🎾 **Tennis Scoreboard** — Web app for tracking tennis match scores (*Java, PostgreSQL, Hibernate, HTTP & Servlets, MVC, JUnit 5, Maven*)  
 - 🛠️ *More projects coming soon to cover new technologies!*  
 
 ---

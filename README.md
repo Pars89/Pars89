@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Timur!
 
 🎓 **Master's Student** in *Information Systems and Technologies* (1st year)  
-💻 **Java Backend Developer in Progress**  
+💻 **Java Backend in Progress**  
 
 ---
 
